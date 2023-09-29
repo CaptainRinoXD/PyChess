@@ -1,0 +1,2 @@
+# PyChess
+Requirement: PyGame
